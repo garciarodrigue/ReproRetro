@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"Mozart",
+        "nombre" : "Lacrimosa",
+        "url":"assets/music/estudiar/Mozart_Lacrimosa.mp3",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"Mozart",
+        "nombre" : "Symphony-40",
+        "url":"assets/music/estudiar/mozart_symphony_no._40.mp3",
+        "duracion":448
+    },
+    {
+        "id":3,
+        "playlist":"estudiar",
+        "artista":"Mozart",
+        "nombre" : "Serenade",
+        "url":"assets/music/estudiar/Mozart_serenade.mp3",
+        "duracion":211
+    },
+    {
+        "id":4,
+        "playlist":"estudiar",
+        "artista":"Antonio Vivaldi",
+        "nombre" : "4 Estaciones",
+        "url":"assets/music/estudiar/Antonio_vivaldi_4Estaciones.mp3",
+        "duracion":221 
+    }
+
+
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"Soda Stereo",
+        "nombre" : "De Musica Ligera",
+        "url":"assets/music/rock/Soda_stereo_de_musica_ligera.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"Fit For Rivals",
+        "nombre" : "Freack Machine",
+        "url":"assets/music/rock/fit_for_rivals_freak_machine.mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"Fit For Rivals",
+        "nombre" : "Crash",
+        "url":"assets/music/rock/fit_for_rivals_crash.mp3",
+        "duracion":198
+    },
+    {
+        "id":4,
+        "playlist":"rock",
+        "artista":"Fit For Rivals",
+        "nombre" : "Novocains",
+        "url":"assets/music/rock/fit_for_rivals_novocain.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"rock",
+        "artista":"sleeping with sirens",
+        "nombre" : "Si soy Yo James",
+        "url":"assets/music/rock/sleeping_with_sirens_if_i_m_james.mp3",
+        "duracion":298
+    },
+
+    {
+        "id":6,
+        "playlist":"rock",
+        "artista":"AC/DC",
+        "nombre" : "Back In Black",
+        "url":"assets/music/rock/ac_dc_back_in_black.mp3",
+        "duracion":254
+    },
+    {
+        "id":7,
+        "playlist":"rock",
+        "artista":"The Gazette",
+        "nombre" : "invisible",
+        "url":"assets/music/rock/the_gazette_the_invisible.mp3",
+        "duracion":267
+    },
+    {
+        "id":8,
+        "playlist":"rock",
+        "artista":"The Gazette",
+        "nombre" : "Guren",
+        "url":"assets/music/rock/The_Gazette_Guren.mp3",
+        "duracion":362
+    },
+    {
+        "id":9,
+        "playlist":"rock",
+        "artista":"Guns And Roses",
+        "nombre" : "November Rain",
+        "url":"assets/music/rock/guns_n_roses_november_rain.mp3",
+        "duracion":547
+    },
+    {
+        "id":10,
+        "playlist":"rock",
+        "artista":"Aerosmith",
+        "nombre" : "Crazy",
+        "url":"assets/music/rock/aerosmith_crazy.mp3",
+        "duracion":375
+    },
+    {
+        "id":11,
+        "playlist":"rock",
+        "artista":"Guns n Roses",
+        "nombre" : "Welcome to the jungle",
+        "url":"assets/music/rock/guns_n_roses_welcome_to_the_jungle.mp3",
+        "duracion":375
+    },
+    {
+        "id":12,
+        "playlist":"rock",
+        "artista":"Likin park",
+        "nombre" : "The End",
+        "url":"assets/music/rock/linkin_park_in_the_end.mp3",
+        "duracion":216
+    },
+    {
+        "id":13,
+        "playlist":"rock",
+        "artista":"Likin Park",
+        "nombre" : "Numb",
+        "url":"assets/music/rock/linkin_park_numb.mp3",
+        "duracion":252
+    },
+    {
+        "id":14,
+        "playlist":"rock",
+        "artista":"A ha",
+        "nombre" : "Take On Me !!!",
+        "url":"assets/music/rock/14-take-on-me.mp3",
+        "duracion":252
+    }
+]

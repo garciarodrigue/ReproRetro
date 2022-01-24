@@ -1,0 +1,163 @@
+[
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"50-cent ft nate Dogg",
+        "nombre" : "Question",
+        "url":"assets/music/deporte/50-cent.mp3",
+        "duracion":215
+    },
+    {
+        "id":2,
+        "playlist":"deporte",
+        "artista":"Akon ft Snoop dog",
+        "nombre" : "i wanna love you",
+        "url":"assets/music/deporte/Akon  I Wanna Love You ft Snoop Dogg.mp3",
+        "duracion":158
+    },
+    {
+        "id":3,
+        "playlist":"deporte",
+        "artista":"Akon  Smack That ft Eminem",
+        "nombre" : "Smack That",
+        "url":"assets/music/deporte/Akon  Smack That ft Eminem.mp3",
+        "duracion":158
+    },
+    {
+        "id":4,
+        "playlist":"deporte",
+        "artista":"Canserbero",
+        "nombre" : "solo exitos",
+        "url":"assets/music/deporte/Canserbero mix solo exitos.mp3",
+        "duracion":158
+    },
+    {
+        "id":5,
+        "playlist":"deporte",
+        "artista":"Chris Brown ft Lil Wayne Busta Rhymes",
+        "nombre" : "Look at Me Now",
+        "url":"assets/music/deporte/Chris Brown  Look at Me Now  ft Lil Wayne Busta Rhymes.mp3",
+        "duracion":158
+    },
+    {
+        "id":6,
+        "playlist":"deporte",
+        "artista":"Cartel De Santa",
+        "nombre" : "Mix",
+        "url":"assets/music/deporte/Cartel De Santa  Mix.mp3",
+        "duracion":158
+    },
+    {
+        "id":7,
+        "playlist":"deporte",
+        "artista":"Christina Aguilera Lil Kim Mya Pink",
+        "nombre" : "Lady Marmalade",
+        "url":"assets/music/deporte/Christina Aguilera Lil Kim Mya Pink  Lady Marmalade.mp3",
+        "duracion":158
+    },
+    {
+        "id":8,
+        "playlist":"deporte",
+        "artista":"Eminem  2Pac",
+        "nombre" : "Rap Hip Hop",
+        "url":"assets/music/deporte/Eminem  2Pac Rap Hip Hop.mp3",
+        "duracion":158
+    },
+    {
+        "id":9,
+        "playlist":"deporte",
+        "artista":"CKan",
+        "nombre" : "La Calle Sabe De Mi Nombre",
+        "url":"assets/music/deporte/CKan  La Calle Sabe De Mi Nombre.mp3",
+        "duracion":158
+    },
+    {
+        "id":10,
+        "playlist":"deporte",
+        "artista":"CKan",
+        "nombre" : "Un Par De Balas",
+        "url":"assets/music/deporte/CKan  Un Par De Balas.mp3",
+        "duracion":158
+    },
+    {
+        "id":11,
+        "playlist":"deporte",
+        "artista":" Santa fe Klan Rich Vagos",
+        "nombre" : "Cypher Alzada",
+        "url":"assets/music/deporte/Cypher  Rich Vagos x ALZADA.mp3",
+        "duracion":158
+    },
+    {
+        "id":12,
+        "playlist":"deporte",
+        "artista":"Eminem ft 50 Cent",
+        "nombre" : "You Dont Know",
+        "url":"assets/music/deporte/Eminem  You Dont Know ft 50 Cent.mp3",
+        "duracion":158
+    },
+    {
+        "id":13,
+        "playlist":"deporte",
+        "artista":"Hector El Father ft Wisin  Yandel Don Omar  Naldo",
+        "nombre" : "Sacala",
+        "url":"assets/music/deporte/Hector El Father  Sácala ft Wisin  Yandel Don Omar  Naldo.mp3",
+        "duracion":158
+    },
+    {
+        "id":14,
+        "playlist":"deporte",
+        "artista":"Cartel de Santa",
+        "nombre" : "Lo  M E J O R mix antiguo",
+        "url":"assets/music/deporte/Lo  M E J O R  de Cartel de Santa mix antiguo.mp3",
+        "duracion":158
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Akon ft Snoop dog",
+        "nombre" : "i wanna love you",
+        "url":"assets/music/deporte/Akon  I Wanna Love You ft Snoop Dogg.mp3",
+        "duracion":158
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Akon ft Snoop dog",
+        "nombre" : "i wanna love you",
+        "url":"assets/music/deporte/Akon  I Wanna Love You ft Snoop Dogg.mp3",
+        "duracion":158
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Akon ft Snoop dog",
+        "nombre" : "i wanna love you",
+        "url":"assets/music/deporte/Akon  I Wanna Love You ft Snoop Dogg.mp3",
+        "duracion":158
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Akon ft Snoop dog",
+        "nombre" : "i wanna love you",
+        "url":"assets/music/deporte/Akon  I Wanna Love You ft Snoop Dogg.mp3",
+        "duracion":158
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Akon ft Snoop dog",
+        "nombre" : "i wanna love you",
+        "url":"assets/music/deporte/Akon  I Wanna Love You ft Snoop Dogg.mp3",
+        "duracion":158
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Akon ft Snoop dog",
+        "nombre" : "i wanna love you",
+        "url":"assets/music/deporte/Akon  I Wanna Love You ft Snoop Dogg.mp3",
+        "duracion":158
+    }
+
+]
